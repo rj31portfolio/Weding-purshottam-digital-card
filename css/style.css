@@ -1302,7 +1302,7 @@ dialog::backdrop {
 
 .hero-image {
     height         : 85%;
-    top            : -38px;
+    top            : -120px;
     transform      : none;
     object-position: 50% 55%
 }
